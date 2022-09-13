@@ -6,7 +6,7 @@ Graduando em Análise e Desenvolvimento de Sistemas. <br>
    <a href="https://github.com/Stanleykenneth">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stanleykenneth&theme=tokyonight&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleykenneth&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
+    
 </div>
  ### Tecnologias que estou estudando no momento 📚  
 <div style="display: inline_block"><br>
