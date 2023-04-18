@@ -18,8 +18,9 @@ Graduando em Análise e Desenvolvimento de Sistemas. <br>
   <img align="center" alt="Kenne-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">          
   <img align="center" alt="Kenne-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="Kenne-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">           
-  <img aling="center" alt="Kenne-Spring" height="50" width="40" padding-top="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-   <img aling="center" alt="Kenne-Node" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">        
+  <img aling="center" alt="Kenne-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
+  <img aling="center" alt="Kenne-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+                  
 
 </div>
   
