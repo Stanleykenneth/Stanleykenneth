@@ -1,5 +1,7 @@
 Olá! Eu sou o Kenneth Stanley. <br>
-Graduando em Análise e Desenvolvimento de Sistemas. <br>
+Graduando em <b>Análise e Desenvolvimento de Sistemas<b> na Universidade Cruzeiro do Sul <b>(UNICSUL)<b> e <br>
+graduando em <b>Tecnologia da Informação<b> na Universidade Virtual do Estado de São Paulo <b>(UNIVESP)<b>
+
 
 
 <div align="center">
